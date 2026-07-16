@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to QA instance of Accounts Microservices from our Githhub Repo"
+  message: "Welcome to QA instance of Accounts Microservices from our Githhub Repo with live refresh properties"
   contactDetails:
     name: "Aman - QA Lead"
     email: "{cipher}3356f1b2d0fb619554e994f81918229163576ae639ee3271c8cba46ed9c195ff"
