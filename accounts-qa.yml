@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to QA instance of Accounts Microservices in external folder"
+  message: "Welcome to QA instance of Accounts Microservices from our Githhub Repo"
   contactDetails:
     name: "Aman - QA Lead"
     email: "aman@gmail.com"
