@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to QA instance of Accounts Microservices from our Githhub Repo"
   contactDetails:
     name: "Aman - QA Lead"
-    email: "aman@gmail.com"
+    email: "{cipher}3356f1b2d0fb619554e994f81918229163576ae639ee3271c8cba46ed9c195ff"
   onCallSupport:
     - 9904733108
     - 9945667544
